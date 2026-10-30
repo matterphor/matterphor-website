@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.matterphor.com/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-10-30</lastmod>
   </url>
   <url>
-    <loc>https://www.matterphor.com/Legal.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://www.matterphor.com/medical-vr-training.html</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.matterphor.com/defence-vr-training.html</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.matterphor.com/energy-industrial-vr-training.html</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.matterphor.com/transport-logistics-vr-training.html</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.matterphor.com/brand-events-vr-experiences.html</loc>
+    <lastmod>2026-10-30</lastmod>
   </url>
 </urlset>
